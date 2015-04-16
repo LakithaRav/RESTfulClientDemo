@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/Lakitha/Documents/DEMO_AdnroidStd/RESTfulClient/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-f6471841fb790c797bb5aea573426f914d42e2ac.jar"
+        jar="/Users/Lakitha/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423"/>
+    <item
+        dex="/Users/Lakitha/Documents/DEMO_AdnroidStd/RESTfulClient/app/build/intermediates/pre-dexed/debug/gson-2.3.1-1a410952ed34702667c69c7ef19b32f6fd2dfbc9.jar"
+        jar="/Users/Lakitha/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757"/>
+
+</pre-dex-items>
